@@ -1,0 +1,141 @@
+.left{
+    width: 600px;
+    height: 3000px;
+    background-color: darkgrey;
+    position: fixed;
+    left: 50px;
+    top:50px;
+}
+.top{
+    width: 3200px;
+    height: 500px;
+    background-color: dimgray;
+    position: fixed;
+    left: 0;
+    top:0;
+}
+.right{
+    width: 2550px;
+    height: 3000px;
+    background-color: white;
+    position: fixed;
+    left: 650px;
+    top:500px;
+}
+.top h1{
+    font-size: 90px;
+    font-style: bold;
+    color: darkblue;
+    margin-top: 120px;
+    margin-left: 700px;
+    line-height: 1.5;
+}
+#ten{
+    font-size: 80px;
+    font-style: bold;
+    color: darkblue;
+    margin-top: 80px;
+    margin-left: 700px;
+    font-family: .VnArabia;
+}
+#cv{
+    font-size: 60px;
+    font-style: italic;
+    margin-left: 700px;
+    font-family: .VnArial;
+}
+#contact{
+    font-size: 50px;
+    margin-left: 70px;
+    margin-top: 400px;
+    font-style: bold;
+}
+#thongtin{
+    font-size: 40px;
+    margin-left: 120px;
+    margin-top: 0px;
+    font-style: bold;
+    line-height: 2;
+}
+div.left p#thongtin{
+    border-bottom-width: 2px;
+    border-bottom-style:solid;
+    border-bottom-color: dimgray;
+}
+#education{
+    font-size: 50px;
+    margin-left: 70px;
+    margin-top: 50px;
+    font-style: bold;
+}
+div.left p#bangcap{
+    font-size: 40px;
+    margin-left: 120px;
+    margin-top: 0px;
+    font-style: bold;
+    line-height: 2;
+}
+div.left p#bangcap{
+    border-bottom-width: 2px;
+    border-bottom-style:solid;
+    border-bottom-color: dimgray;
+}
+#expertise{
+    font-size: 50px;
+    margin-left: 70px;
+    margin-top: 50px;
+    font-style: bold;
+}
+div.left p#kynang{
+    font-size: 40px;
+    margin-left: 120px;
+    margin-top: 0px;
+    font-style: bold;
+    line-height: 2;
+}
+#profile{
+    font-size: 60px;
+    font-style: normal;
+    margin-left: 100px;
+}
+#mota{
+    font-size: 60px;
+    margin-left: 120px;
+    text-align: justify;
+    line-height: 1.25;
+    width: 2300px;
+}
+div.right p#mota{
+    border-bottom-width: 2px;
+    border-bottom-style:solid;
+    border-bottom-color: dimgray;
+}
+#experience{
+    font-size: 60px;
+    font-style: normal;
+    margin-left: 100px;
+}
+div.right p#kinhnghiem{
+    font-size: 60px;
+    margin-left: 120px;
+    text-align: justify;
+    line-height: 1.25;
+    width: 2300px;
+}
+#kinhnghiem{
+    border-bottom-width: 2px;
+    border-bottom-style:solid;
+    border-bottom-color: dimgray;
+}
+#jobs{
+    font-size: 60px;
+    font-style: normal;
+    margin-left: 100px;
+}
+#vieclam{
+    font-size: 60px;
+    margin-left: 120px;
+    text-align: justify;
+    line-height: 1.25;
+    width: 2300px;
+}
